@@ -1,0 +1,12 @@
+The stacked bar plot:
+We can see that the number of total casualties has a decrease trend.
+However, there is a increment in 2014, but continue decreasing afterwards.
+We could also find that the car casualties is always the main type of casualties, but the  sum of "bus", "cyclist" and "motor" also take a big part. Moreover, the proportion of car casualties has become smaller and smaller among years.
+
+
+The line chart:
+Nearly all type of casualties has a decrease trend, except "cyclist" and "van".
+
+The increment of cyclist casualties might due to more and more people choose to commute in an environment friendly way, that is riding a bike.
+
+The increment of van casualties might be a direct result of economy recover of UK after 2014. 

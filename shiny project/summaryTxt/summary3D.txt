@@ -1,0 +1,15 @@
+For different type of casualties, plot 1 and polt 2 vary a lot:
+
+All : The distribution is similar to casualty type "car", since "car" is the main type of casualties
+
+Pedestrian :  the data is very concentrative. There are two spires at age arround 15, time arround 9am and arround 4pm. So to protect pedestrians' safety, policies should be made focusing young teenagers' securities arround 9am and 4pm.
+
+Car : The casualties concentrate on time from 12pm to 23pm. When night comes, the number of casualties decreased sharply at all ages except people at age 18 -25.
+
+Bus :  From age 20 to 80, the data doesn't vary to much. The average proportion of getting seriously injured is 0.08, which is the lowest among all the types. 
+
+Van : Data concentrated in age range 15 - 60.  From the time axis side, you could see a perfect "camel humps" shape. In plot 2, you could see some area with slight blue, which means the proportion of seriously injured is a little bit high.
+
+Cycleist : Look at plot 2, you will find how high the proportion of seriously injured is!! Compare with plot 2 of type "Motor", you will find that riding a bike is even much more dangerous than riding a motor in some way.
+
+Motor : In plot 1, the distribution doesn't distinct so much at rush hours. In plot 2,  most area is in deep blue, which had not expected. 

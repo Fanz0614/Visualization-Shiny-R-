@@ -1,0 +1,5 @@
+From "stack" barplot, we could find that most accidents involving pedestrian  happened when the pedestrian is walking in carriageway (location 5).
+
+From "fill" barplot, we could find that crossing in zig-zag exit lines has the biggest chance of getting seriously injured.
+
+From the light conditions plot, we could see how road light reduced the chance of getting seriously injured.

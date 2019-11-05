@@ -1,0 +1,10 @@
+From the plot, we could have the following findings:
+
+From columns 1 to 4:
+From "fill" barplot, we could find that, cross from driver's offside is more dangerous than from driver's nearside in getting seriously injured. However, from "stack" barplot, we could find that, there are much more casualtiese cross from nearside than offsides.
+It is interesting that when marked by a parked vehicle, the pedestrian will has a greater chance of getting seriously injury but a less probability to get a fatal injury.
+
+From columns 7 and 8:
+We could find that the probability of get fatal injured for pedestrians walking along is highest, but the probability of getting seriously injured is not equally high.
+
+From the light conditions plot, we could see how road light reduced the chance of getting seriously injured.
